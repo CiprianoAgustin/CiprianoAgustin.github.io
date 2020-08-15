@@ -5,7 +5,8 @@
 ### Mis tableros
 
 [Tasas de alfabetización](https://public.tableau.com/profile/aecipriano#!/vizhome/W46MakeoverMonday_15973234745130/Alfabetizacin)
-<iframe src="https://public.tableau.com/views/W46MakeoverMonday_15973234745130/Alfabetizacin?:language=es&:retry=yes&:display_count=y&:origin=viz_share_link"></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/W46MakeoverMonday_15973234745130/Alfabetizacin?:language=es&:retry=yes&:display_count=y&:origin=viz_share_link" width = '650' height = '450' scrolling='yes'></iframe>
+
 
 ---
 [Riqueza Mundial](https://public.tableau.com/profile/aecipriano#!/vizhome/W72020MakeoverMonday_15973242513940/Riquezadelmundo)
