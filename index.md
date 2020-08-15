@@ -1,23 +1,23 @@
-## Portfolio
+## Portafolio
 
 ---
 
-### Category Name 1 
+### Mis tableros
 
-[Project 1 Title](/sample_page)
+[Tasas de alfabetización](https://public.tableau.com/profile/aecipriano#!/vizhome/W46MakeoverMonday_15973234745130/Alfabetizacin)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Riqueza Mundial](https://public.tableau.com/profile/aecipriano#!/vizhome/W72020MakeoverMonday_15973242513940/Riquezadelmundo)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Obsesión con los Smartphones](https://public.tableau.com/profile/aecipriano#!/vizhome/MakeoverMondayW342019/ObsesionconlosSmartphones)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Contacto
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
