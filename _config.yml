@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Agustin Cipriano # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Soy un ingeniero de datos con 4 años de experiencia y toda una vida de pasión por los datos! 
   <br><br>
-  Second description 
+  Me considero una persona analítica y miro con gran entusiasmo todo lo relacionado con innovación y tecnología. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/agustin-e-cipriano/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
