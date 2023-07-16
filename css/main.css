@@ -1119,7 +1119,7 @@ header .logo-es a {
 	color: transparent;
 	width: 32px;
 	height: 32px;
-	background: url("../images/es.png") no-repeat center;
+	background: url("../images/es.webp") no-repeat center;
 	background-size: 32px 32px;
 }
 
@@ -1140,7 +1140,7 @@ header .logo-en a {
 	color: transparent;
 	width: 32px;
 	height: 32px;
-	background: url("../images/en.png") no-repeat center;
+	background: url("../images/en.webp") no-repeat center;
 	background-size: 32px 32px;
 }
 
@@ -1315,7 +1315,7 @@ header .logo-en a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/fondo1.jpg) no-repeat center bottom;
+	background: #151515 url(../images/fondo1.webp) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2116,7 +2116,7 @@ header .logo-en a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/fondo2.jpg) no-repeat center;
+	background: #313131 url(../images/fondo2.webp) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
